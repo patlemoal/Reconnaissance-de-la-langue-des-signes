@@ -5,11 +5,12 @@ Ce projet contient 2 branches :
 * 
    ![signe_detection_model_creation](signe_detection_model_creation.ipynb)
    
-   ![signe_detection.ipynb](signe_detection.ipynb)
+   ![signe_detection](signe_detection.ipynb)
  
 * autre model : la branche contient un second model et une autre méthode de détection sur la caméra 
-![reconnaissance_signes_reseau_neurones](reconnaissance_signes_reseau_neurones.ipynb)
-![reconnaissance_signes_reseau_neurones](reconnaissance_signes_reseau_neurones.ipynb)
+
+![reconnaissance_signes_reseau_neurones]( Reconnaissance-de-la-langue-des-signes /
+/reconnaissance_signes_reseau_neurones.ipynb)
 
 ## Content
 * _Tensorflow_ : Dossier de travail
