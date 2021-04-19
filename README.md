@@ -1,8 +1,8 @@
 # Détection du langage des signes (alphabet)
 
 Ce projet contient 2 branches : 
-* main : la branche principale du projet
-* autre model : la branche contient un second model et une autre méthode de détection sur la caméra
+* main : la branche principale du projet 
+* autre model : la branche contient un second model et une autre méthode de détection sur la caméra ![signe_detection_model_creation](signe_detection_model_creation.ipynb)
 
 
 ## Content
