@@ -5,7 +5,7 @@ Ce projet contient 2 branches :
 * 
    ![signe_detection_model_creation](signe_detection_model_creation.ipynb)
    
-   ![signe_detection](signe_detection.ipynb)
+ *  ![signe_detection](signe_detection.ipynb)
  
 * autre model : la branche contient un second model et une autre méthode de détection sur la caméra 
 
